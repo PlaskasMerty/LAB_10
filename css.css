@@ -1,0 +1,19 @@
+.cards {
+ 
+    display: flex;
+ 
+    flex-wrap: wrap;
+    
+    align-items: center;
+    
+    justify-content: center;
+ 
+}
+
+.card {
+ 
+    display: flex;
+    flex: 0 0 250px
+ 
+}
+
