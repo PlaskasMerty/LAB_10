@@ -16,6 +16,28 @@ aside {
  
 }
 
+.media {
+ 
+   display: flex;
+    align-items: flex-start;
+ 
+}
+
+.media-object {
+    background-color: gray;
+}
+
+.media-body {
+ 
+   flex: 1;
+    background-color: whitesmoke;
+ 
+}
+
+.media-heading {
+    background-color: gainsboro;
+}
+
 header,
  
 footer {
