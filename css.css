@@ -24,6 +24,7 @@ aside {
 }
 
 .media-object {
+    order: 1;
     background-color: gray;
 }
 
