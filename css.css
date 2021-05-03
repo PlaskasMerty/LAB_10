@@ -16,6 +16,20 @@ aside {
  
 }
 
+.form {
+ 
+  display: flex
+ 
+}
+
+.form__field {
+ 
+   flex: 1
+ 
+}
+
+
+
 .media {
  
    display: flex;
